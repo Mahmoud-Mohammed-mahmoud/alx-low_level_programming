@@ -7,7 +7,8 @@
  *    ssize_t write(int fd, const void *buf, size_t count);
  *
  * Return: 1 (error)
- */
+*/
+
 
 int main(void)
 
