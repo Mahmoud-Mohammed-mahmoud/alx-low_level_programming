@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry point 
+ * main - Entry point
  *
  * Description: using sizeof to print the size of various types.
  *
@@ -16,4 +16,4 @@ int main(void)
 	printf("Size of a char: %d byte(s)\n", sizeof(long long int));
 	printf("Size of a char: %d byte(s)\n", sizeof(float));
 	return (0);
-}	
+}
